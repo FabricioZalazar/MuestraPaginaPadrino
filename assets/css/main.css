@@ -422,11 +422,12 @@ body {
 		padding: 2rem;
 	}
 
-	.hr-logo {
+	#header .hr-logo {
 		text-align: center;
 		width: 100%;
 		z-index: -10;
-			background: #2020207a url('images/overlay.png') repeat;
+		background: #2020207a url('images/overlay.png') repeat;
+		padding: 1rem;
 	}
 
 	#header h1 {
