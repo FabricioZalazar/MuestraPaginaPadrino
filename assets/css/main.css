@@ -77,7 +77,7 @@ body {
 #nav {
 	font-family: sans-serif;
 	font-weight: bolder;
-	background: #9b6c30 url('images/overlay.png') repeat;
+	background: #b36a26 url('images/overlay.png') repeat;
 	width: 100%;
 	position: fixed;
 	top: 0;
@@ -197,9 +197,9 @@ body {
 }
 
 #banner .button {
-	background-color: #e67e22;
+	background-color: #c76d1f;
 	padding: 15px 30px;
-	color: white;
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	font-weight: bold;
 	border-radius: 5px;
